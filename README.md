@@ -7,6 +7,9 @@
 1. About dataset:
 
 ### Logistic Regression<a name="logistic"></a>
+1. About dataset:
+![](./Image/Logistic/dataset.png)
+3. 
 ## Installation
 * In each folder contains Requirements.txt file that is including python packages need to run this project.
 * Let's run:
